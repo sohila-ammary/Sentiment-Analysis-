@@ -1,6 +1,0 @@
-datasets
-nltk
-scikit-learn
-matplotlib
-seaborn
-jupyter
